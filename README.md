@@ -1,3 +1,4 @@
+https://github.com/GOURAV-765/GOURAV-765/blob/main/Navy%20Blue%20Modern%20Developer%20LinkedIn%20Banner.png
 <h1 align="center">Hi 👋, I'm Gourav</h1>
 
 <h3 align="center">
