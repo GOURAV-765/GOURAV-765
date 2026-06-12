@@ -1,5 +1,10 @@
-![logo](https://github.com/GOURAV-765/GOURAV-765/blob/main/Navy%20Blue%20Modern%20Developer%20LinkedIn%20Banner.png)
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Gourav</h1>
+
+<h3 align="center">⚡ Full-Stack Developer | UI/UX Enthusiast | Problem Solver</h3>
 
 <h3 align="center">
 ⚡ Building fast, responsive and interactive web applications
